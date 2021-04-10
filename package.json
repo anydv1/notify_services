@@ -1,0 +1,25 @@
+{
+  "name": "notify_services",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anydv1/notify_services.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anydv1/notify_services/issues"
+  },
+  "homepage": "https://github.com/anydv1/notify_services#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+   
+  }
+}
